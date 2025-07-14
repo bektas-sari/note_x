@@ -105,5 +105,5 @@ Academia: [https://independent.academia.edu/bektassari](https://independent.acad
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License 
 
