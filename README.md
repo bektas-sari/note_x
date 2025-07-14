@@ -16,12 +16,6 @@
 
 ---
 
-## 📸 Screenshots
-
-*(Add screenshots here in your GitHub repo)*
-
----
-
 ## 🚀 Getting Started
 
 ### 1. Clone the repository
