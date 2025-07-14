@@ -21,7 +21,7 @@
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/note_x.git
+git clone https://github.com/bektas-sari/note_x.git
 cd note_x
 ```
 
