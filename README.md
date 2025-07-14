@@ -1,4 +1,4 @@
-# 📘 NoteX - Minimalist Note-Taking App
+# 📘 NoteX - Minimalist Note-Taking App (Flutter APP)
 
 **NoteX** is a lightweight, modern, and elegant note-taking app built with Flutter. It offers a smooth user experience with persistent local storage, note editing, searching, and a clean, responsive design using Material 3.
 
