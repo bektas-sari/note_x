@@ -92,11 +92,11 @@ lib/
 
 ---
 
-## 👨‍💻 Developer
+## 👤 Developer
 
-**Bektaş Sarı**
-PhD in Advertising, AI + Creativity researcher
-Flutter Developer & Software Educator
+**Bektaş Sarı**<br>
+PhD in Advertising, AI + Creativity researcher<br>
+Flutter Developer & Software Educator<br>
 
 - **Email:** [bektas.sari@gmail.com](mailto:bektas.sari@gmail.com)  
 - **GitHub:** [github.com/bektas-sari](https://github.com/bektas-sari)  
